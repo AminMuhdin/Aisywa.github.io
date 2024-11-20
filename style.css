@@ -1,0 +1,51 @@
+.jumbotron {
+  padding-top: 50px;
+  background-image: url(Dear/bg.jpg);
+  background-size: cover;
+  height: 540px;
+  color: white;
+  text-shadow: 1px 5px 5px black;
+  font-family: "Alkatra", system-ui;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+section .jumbotron img {
+  border: 1px 1px 1px white;
+}
+
+#project {
+  background-image: url(Dear/bg2.jpg);
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 2px 5px black;
+  font-family: "Alkatra", system-ui;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/*  */
+
+vidio {
+  width: 50px;
+  height: 100px;
+}
+.galery {
+  background-image: url(Dear/bg4.jpg);
+  /* padding-top: 50px; */
+  /* background-size: cover; */
+}
+.galery img {
+  width: 330px;
+  height: 500px;
+}
+
+.galery .row {
+  padding-bottom: 60px;
+}
+/* section {
+  padding-top: 2rem;
+} */
+
+footer {
+  background-color: #065df3;
+}
